@@ -76,13 +76,6 @@ public class StudentServiceimpl implements  StudentService {
 }
    
   
-        // if(data == null  
-        //    || data.getName()==null || data.getName().isBlank()
-        //    || data.getAddress()==null||data.getAddress().isBlank()
-        //    || data.getEmail()==null||data.getEmail().isBlank()){
-        //     return ("Enter Your Correct Details");
-        // }
-        //  Student saved=repo.save(data);
-        // return "Student Details Saved " + saved.getId();
+       
           
 
